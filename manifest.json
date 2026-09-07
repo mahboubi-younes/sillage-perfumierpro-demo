@@ -1,0 +1,21 @@
+{
+  "name": "Sillage - Perfume Store Management",
+  "short_name": "Sillage",
+  "description": "Professional-grade luxury desktop application for perfume shops",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "./sillage_app_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./sillage_app_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
