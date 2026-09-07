@@ -4,6 +4,8 @@ An activation-gated web demonstration of **Sillage**, a point-of-sale and
 operations system for perfume-shop owners who need to manage sales, stock,
 customers, and reporting in one workflow.
 
+![Sillage — PerfumierPro activation screen](docs/sillage-perfumierpro.png)
+
 ## Who it is for
 
 Independent perfume stores and retail teams that want a tailored system for
