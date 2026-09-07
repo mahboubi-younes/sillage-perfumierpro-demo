@@ -25,7 +25,7 @@ daily selling, inventory control, and customer loyalty.
 
 ## Try the demo
 
-Visit the deployed GitHub Pages site from this repository's **About** section.
+Try the live demo: [mahboubi-younes.github.io/sillage-perfumierpro-demo](https://mahboubi-younes.github.io/sillage-perfumierpro-demo/).
 The application remains locked until the owner issues an activation for the
 browser/device being evaluated.
 
