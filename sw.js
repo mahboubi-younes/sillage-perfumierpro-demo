@@ -1,6 +1,6 @@
 const CACHE_NAME = 'sillage-cache-v1';
 const urlsToCache = [
-  './'
+  '/'
 ];
 
 self.addEventListener('install', event => {
