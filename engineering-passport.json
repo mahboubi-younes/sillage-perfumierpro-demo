@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-23T11:03:41.090Z",
+  "repository": {
+    "name": "mahboubi-younes/sillage-perfumierpro-demo",
+    "description": "Licensed web demo for perfume-shop owners to try Sillage: POS, inventory, customer loyalty, sales history, and operational reporting."
+  },
+  "technologies": [
+    "JavaScript"
+  ],
+  "evidence": {
+    "README": {
+      "status": "detected",
+      "detail": "README.md detected"
+    },
+    "LICENSE": {
+      "status": "detected",
+      "detail": "License file detected"
+    },
+    "SOURCE": {
+      "status": "detected",
+      "detail": "Source files detected"
+    },
+    "BUILD": {
+      "status": "unknown",
+      "detail": "Not detected"
+    },
+    "CI": {
+      "status": "detected",
+      "detail": "Workflow run found; latest conclusion: in_progress"
+    },
+    "TESTS": {
+      "status": "unknown",
+      "detail": "Test files and configurations not detected"
+    },
+    "DEPLOYMENT": {
+      "status": "verified",
+      "detail": "https://mahboubi-younes.github.io/sillage-perfumierpro-demo/"
+    },
+    "DOCUMENTATION": {
+      "status": "detected",
+      "detail": "Documentation sections or docs directory detected"
+    },
+    "ASSETS": {
+      "status": "detected",
+      "detail": "1 screenshot or asset file(s) detected"
+    },
+    "LIVE DEMO": {
+      "status": "detected",
+      "detail": "URL declared in README: https://mahboubi-younes.github.io/sillage-perfumierpro-demo/"
+    }
+  },
+  "github": {
+    "api": {
+      "status": "verified",
+      "detail": "Repository metadata read from GitHub API"
+    },
+    "name": "mahboubi-younes/sillage-perfumierpro-demo",
+    "description": "Licensed web demo for perfume-shop owners to try Sillage: POS, inventory, customer loyalty, sales history, and operational reporting.",
+    "defaultBranch": "main",
+    "pages": {
+      "status": "verified",
+      "detail": "https://mahboubi-younes.github.io/sillage-perfumierpro-demo/"
+    },
+    "workflows": {
+      "status": "detected",
+      "detail": "Workflow run found; latest conclusion: in_progress"
+    },
+    "latestRun": {
+      "name": "Engineering Passport",
+      "status": "in_progress",
+      "conclusion": null,
+      "updatedAt": "2026-09-23T11:03:37Z"
+    }
+  },
+  "files": {
+    "workflows": [
+      ".github/workflows/engineering-passport.yml"
+    ],
+    "tests": [],
+    "docs": [
+      "docs/sillage-perfumierpro.png"
+    ],
+    "assets": [
+      "docs/sillage-perfumierpro.png"
+    ]
+  }
+}
