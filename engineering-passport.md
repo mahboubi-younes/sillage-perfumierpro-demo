@@ -12,7 +12,7 @@ Evidence-first report. This is not a quality score or ranking.
 - **LICENSE** | DETECTED | License file detected
 - **SOURCE** | DETECTED | Source files detected
 - **BUILD** | DETECTED | Static browser project; no build script is required or declared
-- **CI** | DETECTED | Workflow detected; latest non-Passport run: queued
+- **CI** | VERIFIED | Latest non-Passport workflow succeeded on 2026-09-23T12:17:26Z
 - **TESTS** | UNKNOWN | No test files or test configuration detected in the repository
 - **DEPLOYMENT** | VERIFIED | https://mahboubi-younes.github.io/sillage-perfumierpro-demo/
 - **DOCUMENTATION** | DETECTED | Documentation sections or docs directory detected
@@ -25,7 +25,7 @@ JavaScript
 
 ## Verification context
 
-- Generated: 2026-09-23T12:16:34.278Z
+- Generated: 2026-09-23T12:17:59.450Z
 - GitHub API: Repository metadata read from GitHub API
 
 Unknown means evidence was unavailable; no claim is made.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T12:16:34.278Z",
+  "generatedAt": "2026-09-23T12:17:59.450Z",
   "repository": {
     "name": "mahboubi-younes/sillage-perfumierpro-demo",
     "description": "Licensed web demo for perfume-shop owners to try Sillage: POS, inventory, customer loyalty, sales history, and operational reporting."
@@ -26,8 +26,8 @@
       "detail": "Static browser project; no build script is required or declared"
     },
     "CI": {
-      "status": "detected",
-      "detail": "Workflow detected; latest non-Passport run: queued"
+      "status": "verified",
+      "detail": "Latest non-Passport workflow succeeded on 2026-09-23T12:17:26Z"
     },
     "TESTS": {
       "status": "unknown",
@@ -63,15 +63,15 @@
       "detail": "https://mahboubi-younes.github.io/sillage-perfumierpro-demo/"
     },
     "workflows": {
-      "status": "detected",
-      "detail": "Latest non-Passport workflow: queued"
+      "status": "verified",
+      "detail": "Latest non-Passport workflow succeeded on 2026-09-23T12:17:26Z"
     },
     "latestRun": {
       "name": "pages build and deployment",
-      "status": "queued",
-      "conclusion": null,
-      "updatedAt": "2026-09-23T12:16:27Z",
-      "url": "https://github.com/mahboubi-younes/sillage-perfumierpro-demo/actions/runs/35859451207"
+      "status": "completed",
+      "conclusion": "success",
+      "updatedAt": "2026-09-23T12:17:26Z",
+      "url": "https://github.com/mahboubi-younes/sillage-perfumierpro-demo/actions/runs/35859467161"
     }
   },
   "files": {
