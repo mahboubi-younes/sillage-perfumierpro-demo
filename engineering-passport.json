@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T12:00:42.169Z",
+  "generatedAt": "2026-09-23T12:16:34.278Z",
   "repository": {
     "name": "mahboubi-younes/sillage-perfumierpro-demo",
     "description": "Licensed web demo for perfume-shop owners to try Sillage: POS, inventory, customer loyalty, sales history, and operational reporting."
@@ -22,16 +22,16 @@
       "detail": "Source files detected"
     },
     "BUILD": {
-      "status": "unknown",
-      "detail": "Not detected"
+      "status": "detected",
+      "detail": "Static browser project; no build script is required or declared"
     },
     "CI": {
       "status": "detected",
-      "detail": "Workflow run found; latest conclusion: in_progress"
+      "detail": "Workflow detected; latest non-Passport run: queued"
     },
     "TESTS": {
       "status": "unknown",
-      "detail": "Test files and configurations not detected"
+      "detail": "No test files or test configuration detected in the repository"
     },
     "DEPLOYMENT": {
       "status": "verified",
@@ -46,8 +46,8 @@
       "detail": "1 screenshot or asset file(s) detected"
     },
     "LIVE DEMO": {
-      "status": "detected",
-      "detail": "URL declared in README: https://mahboubi-younes.github.io/sillage-perfumierpro-demo/"
+      "status": "verified",
+      "detail": "Live demo reachable; HTTP 200"
     }
   },
   "github": {
@@ -64,13 +64,14 @@
     },
     "workflows": {
       "status": "detected",
-      "detail": "Workflow run found; latest conclusion: in_progress"
+      "detail": "Latest non-Passport workflow: queued"
     },
     "latestRun": {
-      "name": "Engineering Passport",
-      "status": "in_progress",
+      "name": "pages build and deployment",
+      "status": "queued",
       "conclusion": null,
-      "updatedAt": "2026-09-23T12:00:38Z"
+      "updatedAt": "2026-09-23T12:16:27Z",
+      "url": "https://github.com/mahboubi-younes/sillage-perfumierpro-demo/actions/runs/35859451207"
     }
   },
   "files": {
